@@ -1,0 +1,6 @@
+model_checkpoint_path: "comp_model-train_epoch65.ckpt-65"
+all_model_checkpoint_paths: "best/comp_model-train_epoch51.ckpt-51"
+all_model_checkpoint_paths: "comp_model-train_epoch55.ckpt-55"
+all_model_checkpoint_paths: "comp_model-train_epoch60.ckpt-60"
+all_model_checkpoint_paths: "best/comp_model-train_epoch64.ckpt-64"
+all_model_checkpoint_paths: "comp_model-train_epoch65.ckpt-65"
